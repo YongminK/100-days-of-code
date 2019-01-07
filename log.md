@@ -2,15 +2,23 @@
 
 ### Day 0: January 6, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Repeated Basic HTML and a little Basic CSS
 
-**Thoughts:** 
+**Thoughts:** I remember almost all of Basic HTML. Not bad.
 
-*Mark:* main - for SEO; 
-required in input - user will not be able to submit form until user filled them out;
-same radio button shoud have same name atribute;
-use atribute for on label and same id in input;
+*Mark:*
++ul main - for SEO; 
++ul required in input - user will not be able to submit form until user filled them out;
++ul same radio button shoud have same name atribute;
++ul use atribute for on label and same id in input;
 
+### Day 1: January 8,2019
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+*Mark:*
 
 
 

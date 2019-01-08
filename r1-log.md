@@ -11,3 +11,6 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 ### R1D2
 + Repeat Basic CSS
 + Applied Visual Design
+
+### R1D3
++Applied Accessibility

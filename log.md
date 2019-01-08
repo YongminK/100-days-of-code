@@ -7,18 +7,22 @@
 **Thoughts:** I remember almost all of Basic HTML. Not bad.
 
 *Mark:*
-+ul main - for SEO; 
-+ul required in input - user will not be able to submit form until user filled them out;
-+ul same radio button shoud have same name atribute;
-+ul use atribute for on label and same id in input;
++ main - for SEO; 
++ required in input - user will not be able to submit form until user filled them out;
++ same radio button shoud have same name atribute;
++ use atribute for on label and same id in input;
 
 ### Day 1: January 8,2019
 
-**Today's Progress:** 
+**Today's Progress:** Repeated Basic CSS
 
-**Thoughts:**
+**Thoughts:** I need more practice in variables and media query.
 
 *Mark:*
-
++ [attr=value] to change style of elemen with specific atribute
++ em and rem - relative lenth units
++ !important to make style important
++ CSS variables 
++ media query
 
 

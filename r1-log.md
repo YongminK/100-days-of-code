@@ -10,3 +10,4 @@ Repeat Basic CSS
 
 ### R1D2
 Repeat Basic CSS
+Applied Visual Design

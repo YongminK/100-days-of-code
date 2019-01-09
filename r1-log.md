@@ -13,4 +13,4 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 + Applied Visual Design
 
 ### R1D3
-+Applied Accessibility
++ Applied Accessibility

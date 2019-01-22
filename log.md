@@ -42,4 +42,16 @@
 + i need practice with :before and :after
 + @keyframes - animation 
   + *cubic-bezier*
+  
+  ### Day 2: January 22, 2019 
 
+**Today's Progress**: 
+
+**Thoughts:** Applied Accessibility
+
+*Mark:*
++  use *main* to wrap central information on your page
++ *<div>* - groups content
++ *<section>* - groups related content
++ *<article>* - groups independent, self-contained content
++ *audio* tag including *controls* for play, pause and others and *source* with *src* and *type* 

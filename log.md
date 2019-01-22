@@ -45,9 +45,9 @@
   
   ### Day 2: January 22, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Applied Accessibility
 
-**Thoughts:** Applied Accessibility
+**Thoughts:** It was easy. I think it must on page to make easier life for people with some disableties.
 
 *Mark:*
 +  use *main* to wrap central information on your page
@@ -55,3 +55,11 @@
 + *<section>* - groups related content
 + *<article>* - groups independent, self-contained content
 + *audio* tag including *controls* for play, pause and others and *source* with *src* and *type* 
++ tag *figure* and *figcaption*
++ *label* atribute *for* associate that *label* with the form control. *for* must be the same with *id*
++ *fieldset* and *legend* to surround radio buttons
++ *input* with type *date*
++ *time datetime*
++ with CSS you can make content visible only to a screen reader
++ contrast ratio between background color  and text color must be 6:1
++*accesskey* *tabindex*

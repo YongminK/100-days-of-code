@@ -63,3 +63,22 @@
 + with CSS you can make content visible only to a screen reader
 + contrast ratio between background color  and text color must be 6:1
 +*accesskey* *tabindex*
+  
+  ### Day 3: January 23, 2019 
+
+**Today's Progress**: Responsive Web Design. CSS Flexbox
+
+**Thoughts:** More practice with responsive WD plz. More.
+
+*Mark:*
++ media query
++ max-width: 100%; height: auto;
++ retina image. Width and height are only half of what the original file 
++ Viewport units are relative to the viewport dimensions (width or height) of a *device*, and percentages are relative to the size of the *parent container element*.
+  +vw
+  +vh
+  +vmin
+  +vmax
+-------------------------
++ display: flex;
++ *flex-direction* row,column

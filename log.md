@@ -82,3 +82,14 @@
 -------------------------
 + display: flex;
 + *flex-direction* row,column
++ https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg
++ *justify-content* center, flex-start, flex-end, space-around, space-between. It's for main axis
++ *align-items* flex-start, flex-end, center, stretch, baseline
++ *flex-wrap* Next item move into a new row or column. The break point of  wrapping happens - the size of the items and the size of the container.
++ *flex-shrink* 
++ opposite to preveous *flex-grow*
++ *flex-basis* to set initial size of an item
++ *flex* flex-grow:  flex-shrink:  flex-basis: 
++ Use the *order* Property to Rearrange Items
++ *flex-self* to adjust each item's alignment individually
++ 

@@ -68,7 +68,7 @@
 
 **Today's Progress**: Responsive Web Design. CSS Flexbox
 
-**Thoughts:** More practice with responsive WD plz. More.
+**Thoughts:** More practice with responsive WD plz. More. Using Flexbox - cool. You can make beautiful web-page with it.
 
 *Mark:*
 + media query
@@ -92,4 +92,30 @@
 + *flex* flex-grow:  flex-shrink:  flex-basis: 
 + Use the *order* Property to Rearrange Items
 + *flex-self* to adjust each item's alignment individually
-+ 
+
+ ### Day 4: January 24, 2019 
+
+**Today's Progress**: CSS Grid
+
+**Thoughts:** 
+
+*Mark:*
++ to set element into a grid container, you need to setting *display* property to *grid*  
++ to make some columns use *grid-temolate-column: 50% 50%(for example)*
++ *grid-temolate-rows*
+  + fr: sets the column or row to a fraction of the available space,
+  + auto: sets the column or row to the width or height of its content automatically,
+  + %: adjusts the column or row to the percent width of its container.
++ to make gap between columns use *grid-column-gap* (for rows *gris-row-gap*)
++ *grid-gap: [between rows] [between columns];*
++ *grid-column* and *grid-row*
++ *justify-self* the content of each item in grid is located in cell. It's align this item in this cell. **Horizontal**. *justify-items* for all items
++ *align-self* same but **vertical**. *align-items* for all
++ *grid-template-areas* ?????
++ grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;
++ *repaet()* to make some columns/rows with same size
++ grid-template-columns: repeat(3, **minmax**(90px,1fr)) ;
++ grid-template-columns:repeat(**auto-fill**, minmax(60px, 1fr));
++ grid-template-columns:repeat(**auto-fit**, minmax(60px, 1fr));
+  + The only difference is that when the container's size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container.
++ grid within grid

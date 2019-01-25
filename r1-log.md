@@ -24,10 +24,7 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 
 ### R1D6
 + Build a Tribute Page
-+ Build a Survey Form
 + Intensiv Curse
-+ Build a Product Landing Page
 
-### R1D7
-+ PassedBuild a Technical Documentation Page
-+ Intensiv Curse
+
+

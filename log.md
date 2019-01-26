@@ -97,7 +97,7 @@
 
 **Today's Progress**: CSS Grid
 
-**Thoughts:** 
+**Thoughts:** Just practice more.
 
 *Mark:*
 + to set element into a grid container, you need to setting *display* property to *grid*  
@@ -119,3 +119,13 @@
 + grid-template-columns:repeat(**auto-fit**, minmax(60px, 1fr));
   + The only difference is that when the container's size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container.
 + grid within grid
+
+### Day 5: January 25, 2019 
+
+**Today's Progress**: Practice. Start intensiv and portfolio page. FCC's project Tribute page.
+
+**Thoughts:** I don't remember all from lessons. So i need just try to use of it and read one more time discription of atributes and tags.
+
+**Links**:
++ Tribute Page https://codepen.io/yongmink/full/mvVxER
++ Portfolio (header) https://codepen.io/yongmink/full/PVPveb

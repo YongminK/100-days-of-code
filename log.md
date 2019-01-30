@@ -144,7 +144,7 @@
 **Today's Progress**: Practice. Make landing page.
 
 **Thoughts:** Wow! I think, i understand media query now. Anyway it's better. 
-To make *media query* work don't forget to use in HTML <meta name="viewport" content="width=device-width"/>
+To make *media query* work don't forget to use in HTML *meta name="viewport" content="width=device-width"*
 
 **Links**:
 + Landing page https://codepen.io/yongmink/pen/XONQrP

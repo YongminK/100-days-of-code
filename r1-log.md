@@ -24,7 +24,10 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 
 ### R1D6
 + Build a Tribute Page
-+ Intensiv Curse
++ Intensiv Curse - start to work with .psd, header of page
 
+### R1D7
++ Build a Survey Form
++ Intensiv Curse - try to make page responsive - failed
 
 

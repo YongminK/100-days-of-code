@@ -30,4 +30,7 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 + Build a Survey Form
 + Intensiv Curse - try to make page responsive - failed
 
+### R1D8
++ Build a Landing page
+
 

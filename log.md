@@ -129,3 +129,24 @@
 **Links**:
 + Tribute Page https://codepen.io/yongmink/full/mvVxER
 + Portfolio (header) https://codepen.io/yongmink/full/PVPveb
+
+### Day 6: January 29, 2019 
+
+**Today's Progress**: Practice. End (no) intensive course. Make survey form
+
+**Thoughts:** It's going better. I make html files faster when early. But responsive for me is very difficult.
+**Links**:
++ Survey Form https://codepen.io/yongmink/pen/aXmjrx
++ Portfolio (media query, project's cards, footer) https://codepen.io/yongmink/pen/PVPveb
+
+### Day 7: January 30, 2019 
+
+**Today's Progress**: Practice. Make landing page.
+
+**Thoughts:** Wow! I think, i understand media query now. Anyway it's better. 
+To make *media query* work don't forget to use in HTML <meta name="viewport" content="width=device-width"/>
+
+**Links**:
++ Landing page https://codepen.io/yongmink/pen/XONQrP
+
+

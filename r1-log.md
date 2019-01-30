@@ -33,4 +33,7 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 ### R1D8
 + Build a Landing page
 
+### R1D
++ Build a Technical Documentation Page
+
 

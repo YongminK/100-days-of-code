@@ -149,4 +149,11 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 **Links**:
 + Landing page https://codepen.io/yongmink/pen/XONQrP
 
+### Day 8: January 31, 2019 
 
+**Today's Progress**: Practice. Make Techical Documentation Page.
+
+**Thoughts:** The hardest part of this challenge was select topic of page. I tried to do dropdown menu with button for mobile version. But i don't understand how to realise it and how search information for it. *crying*
+
+**Links**:
++ Techical Documentation Page https://codepen.io/yongmink/pen/WPRaQK

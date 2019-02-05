@@ -157,3 +157,12 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 
 **Links**:
 + Techical Documentation Page https://codepen.io/yongmink/pen/WPRaQK
+
+### Day 9: February 4, 2019 
+
+**Today's Progress**: Practice. Make Personal Portfolio Page
+
+**Thoughts:** The hardest part of this challenge - my fantasy. I'm done. I think now i need to understand when and how use float, flexbox and grid.
+
+**Links**:
++ Personal Portfolio Page https://codepen.io/yongmink/pen/LqWpmr

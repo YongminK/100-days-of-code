@@ -166,3 +166,9 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 
 **Links**:
 + Personal Portfolio Page https://codepen.io/yongmink/pen/LqWpmr
+
+### Day 10: February 5, 2019 
+
+**Today's Progress**: Basic JavaScript
+
+**Thoughts:** This is just an introduction to the syntax of the language.

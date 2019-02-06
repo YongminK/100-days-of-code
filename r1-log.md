@@ -41,3 +41,6 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 
 ### R1D11
 + Basic JavaScript
+
+### R1D12
++ Bootstrap

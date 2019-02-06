@@ -172,3 +172,16 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 **Today's Progress**: Basic JavaScript
 
 **Thoughts:** This is just an introduction to the syntax of the language.
+
+### Day 11: February 6, 2019 
+
+**Today's Progress**: Bootstrap
+
+**Thoughts:** It's easy and useful.
+
+**Marks:**
++ Add bootstrap: link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"
++ nest all in div with class container-fluid
++ class *img-responsive* 
++ *text-center*
++ Bootstrap uses a responsive **12-column** grid system . *col-md-4 *

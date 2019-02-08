@@ -185,3 +185,9 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 + class *img-responsive* 
 + *text-center*
 + Bootstrap uses a responsive **12-column** grid system . *col-md-4 *
+
+### Day 12: February 8, 2019 
+**Today's Progress**: Practice. Bootstrap
+
+**Thoughts:** Try to use Bootstrap on my first portfolio page. Now it's looking better on mobile devices. (only project's cards)
+**Links:** https://yongmink.github.io/portfolio/

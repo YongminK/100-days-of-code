@@ -191,3 +191,14 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 
 **Thoughts:** Try to use Bootstrap on my first portfolio page. Now it's looking better on mobile devices. (only project's cards)
 **Links:** https://yongmink.github.io/portfolio/
+
+### Day 13: February 13, 2019
+**Today's Progress:** Read some articles about adaptive page-proofs.
+
+**Thoughts:** I think now i understand how works flexbox and grid (maybe).
+when you CAN'T use Bootstrap:
++ big online store and new web-sites
++sites with complex components reusable in different places
++ sites with many types of pages that may require redesign
++ promo and landings
++ games 

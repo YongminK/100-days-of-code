@@ -44,3 +44,10 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 
 ### R1D12
 + Bootstrap
+
+### R1D13
++ Practice Bootstrap
+
+### R1D14
++ Articles about adaptive pages
++ Basic JS

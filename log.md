@@ -202,3 +202,8 @@ when you CAN'T use Bootstrap:
 + sites with many types of pages that may require redesign
 + promo and landings
 + games 
+
+### Day 14: February 19, 2019
+**Today's Progress:** Basic JS.
+
+**Thoughts:** Still easy, but i'm workinf very slow. 

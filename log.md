@@ -206,4 +206,4 @@ when you CAN'T use Bootstrap:
 ### Day 14: February 19, 2019
 **Today's Progress:** Basic JS.
 
-**Thoughts:** Still easy, but i'm workinf very slow. 
+**Thoughts:** Still easy, but i'm workinf very slow. And i ned to practice more, because simetimes it's difficult for me to write easy code on JS.

@@ -54,3 +54,7 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 
 ### R1D15
 + Basic JS
+
+### R1D16
++ CSS Grid Garden Game
++ Quality of Code

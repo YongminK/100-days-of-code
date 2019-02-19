@@ -203,7 +203,12 @@ when you CAN'T use Bootstrap:
 + promo and landings
 + games 
 
-### Day 14: February 19, 2019
+### Day 14: February 18, 2019
 **Today's Progress:** Basic JS.
 
 **Thoughts:** Still easy, but i'm workinf very slow. And i ned to practice more, because simetimes it's difficult for me to write easy code on JS.
+
+### Day 15: February 19, 2019
+**Today's Progress:** CSS Grid Game. Qality of JS's code.
+
+**Thoughts:** This topic isn't important now. I will come back to this later.  

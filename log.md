@@ -212,3 +212,15 @@ when you CAN'T use Bootstrap:
 **Today's Progress:** CSS Grid Game. Qality of JS's code.
 
 **Thoughts:** This topic isn't important now. I will come back to this later.  
+
+### Day 16: February 20, 2019
+**Today's Progress:** Data structure
++ Introduction to methods and properties
++ Numbers
+
+
+**Thoughts:**  Rounding of numbers sometimes can makes some troubles. 
+
+**Marks:**
+
+

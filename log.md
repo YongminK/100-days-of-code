@@ -218,9 +218,18 @@ when you CAN'T use Bootstrap:
 + Introduction to methods and properties
 + Numbers
 
-
 **Thoughts:**  Rounding of numbers sometimes can makes some troubles. 
 
-**Marks:**
+### Day 17: February 21, 2019
+**Today's Progress:** Data structure
++ Objects as associative arrays
++ Objects: enumerating properties
++ Objects: pass by reference
+
+**Thoughts:**  
++ The object is assigned and copied "by reference."
++ The primitive - copied by value
+
+
 
 

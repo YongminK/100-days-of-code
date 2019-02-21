@@ -70,3 +70,9 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
   + Objects as associative arrays
   + Objects: enumerating properties
   + Objects: pass by reference
+
+### R1D19
++ Data Structures
+  + Arrays with numeric indices
+  + Arrays: methods
+  + Array: enumeration methods

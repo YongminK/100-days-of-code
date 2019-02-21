@@ -61,4 +61,12 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 
 ### R1D17
 + Data Structures
-
+  + Numbers
+  + Strings
+  + Methods and properties
+  
+### R1D18
++ Data Structures
+  + Objects as associative arrays
+  + Objects: enumerating properties
+  + Objects: pass by reference

@@ -229,7 +229,16 @@ when you CAN'T use Bootstrap:
 **Thoughts:**  
 + The object is assigned and copied "by reference."
 + The primitive - copied by value
++ *var name = {};*
 
+### Day 18: February 22, 2019
+**Today's Progress:** Data structure
++ Arrays with numeric indices
++ Arrays: methods
++ Array: enumeration methods
 
-
+**Thoughts:**  
++ *var name = [];*
++ pop, push, shift, unshift
++ array - object
 

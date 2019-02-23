@@ -241,4 +241,8 @@ when you CAN'T use Bootstrap:
 + *var name = [];*
 + pop, push, shift, unshift
 + array - object
++ method *split* - string to array
++ method *join* - array to string
++ delete arr[i] - make undefined
++ method *arr.splice(index\[, deleteCount, elem1, ..., elemN\])* 
 

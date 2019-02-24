@@ -244,5 +244,8 @@ when you CAN'T use Bootstrap:
 + method *split* - string to array
 + method *join* - array to string
 + delete arr[i] - make undefined
-+ method *arr.splice(index\[, deleteCount, elem1, ..., elemN\])* 
++ method *arr.splice(index\[, deleteCount, elem1, ..., elemN\])* -  from *index* *deleteCount* and paste on empty place(s) elem1,...,elemN. Return array of removed elements
++ *slice()*
++ *sort(fn)*
++ *reverse()*
 

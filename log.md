@@ -249,3 +249,7 @@ when you CAN'T use Bootstrap:
 + *sort(fn)*
 + *reverse()*
 
+### Day 19: February 24, 2019
+**Today's Progress:** Work with html and css. Design for simulator.
+**Thoughts:** It's difficult to work with code of someone else and change something that already using Bootstrap's styles, but stick a part of this styles
+**Link:** https://yongmink.github.io/simulator-of-relational-algebra/

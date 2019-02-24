@@ -76,3 +76,8 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
   + Arrays with numeric indices
   + Arrays: methods
   + Array: enumeration methods
+
+### R1D20
++ Start to change simulator-of-relational-algebra design
+
+

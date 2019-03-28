@@ -80,4 +80,9 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 ### R1D20
 + Start to change simulator-of-relational-algebra design
 
+### R1D21
++ Work with DOM-elements
+	+ search
+	+ change
+
 

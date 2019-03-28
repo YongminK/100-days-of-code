@@ -258,3 +258,38 @@ when you CAN'T use Bootstrap:
 **Today's Progress:** Work with html and css. Design for simulator.
 **Thoughts:** So, okay, now it looks better than first version. Sadly that scrollbar doesn't work like i want
 **Link:** https://yongmink.github.io/simulator-of-relational-algebra/
+
+### Day 21: March 29, 2019
+**Today's Progress:** knowledge about DOM-elements
+**Thoughts:** 
+**Mark:** 
++ work in console
++ *for (var i = 0; i < 5; i++) {
+      table.rows[i].cells[i].style.backgroundColor = 'red'
+    }*
++ getElemetById(id) - only in *document*
++ getElementsByTagName(tag)  tag = 'div' - inside any element. tag = '\*' - get all elements. ** DON'T FORGET ABOUT S**
++ document.getElementsByName(name)
++ getElementsByClassName(className)
++ querySelectorAll(css)
+  var elements = document.querySelectorAll('ul > li:last-child');
+  return *all* elemets inside elem
+  :hover, :active 
++ querySelector - return *only first* element
++ matches(css) - return *true* or *false*
+  for (var i = 0; i < elems.length; i++) {
+    if (elems[i].matches('a[href$="zip"]')) {
+      alert( "Ссылка на архив: " + elems[i].href );
+    }
+  }
++ closest(css) - search closest element above the DOM hierarchy
++ **XPath**  
++ innerHTML - get HTML-content of element. can change
++ outerHTML - get all HTML-content of element. can't change
++ (nodeValue)/data 
++ textContent - return concatenation of all text nodes
+  document.body.children[0].innerHTML = name;   Винни-пух
+  document.body.children[1].textContent = name; <b>Винни-пух</b>
++ hidden = true/false
+
+

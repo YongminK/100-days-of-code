@@ -184,7 +184,7 @@ To make *media query* work don't forget to use in HTML *meta name="viewport" con
 + nest all in div with class container-fluid
 + class *img-responsive* 
 + *text-center*
-+ Bootstrap uses a responsive **12-column** grid system . *col-md-4 *
++ Bootstrap uses a responsive **12-column** grid system *col-md-4*
 
 ### Day 12: February 8, 2019 
 **Today's Progress**: Practice. Bootstrap
@@ -277,11 +277,11 @@ when you CAN'T use Bootstrap:
   :hover, :active 
 + querySelector - return *only first* element
 + matches(css) - return *true* or *false*
-  for (var i = 0; i < elems.length; i++) {
-    if (elems[i].matches('a[href$="zip"]')) {
-      alert( "Ссылка на архив: " + elems[i].href );
+    for (var i = 0; i < elems.length; i++) {
+        if (elems[i].matches('a[href$="zip"]')) {
+            alert( "Ссылка на архив: " + elems[i].href );
+        }
     }
-  }
 + closest(css) - search closest element above the DOM hierarchy
 + **XPath**  
 + innerHTML - get HTML-content of element. can change
@@ -291,5 +291,9 @@ when you CAN'T use Bootstrap:
   document.body.children[0].innerHTML = name;   Винни-пух
   document.body.children[1].textContent = name; <b>Винни-пух</b>
 + hidden = true/false
++ **polyfill** - library that adds to old browsers support of possibility, which in modern browsers is inline
++ how to check:
+    <input type="no-such-type">
+    alert( document.body.children[1].type ); // text, не поддерживается
 
 

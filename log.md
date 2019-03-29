@@ -293,7 +293,7 @@ when you CAN'T use Bootstrap:
 + hidden = true/false
 + **polyfill** - library that adds to old browsers support of possibility, which in modern browsers is inline
 + how to check:
-    <input type="no-such-type">
+    \<input type="no-such-type"\>
     alert( document.body.children[1].type ); // text, не поддерживается
 
 

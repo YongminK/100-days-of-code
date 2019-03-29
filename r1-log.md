@@ -84,5 +84,7 @@ The log of my #100DaysOfCode challenge. Started on [January 6, Sunday, 2019].
 + Work with DOM-elements
 	+ search
 	+ change
+	+ attributes
+	+ property
 
 

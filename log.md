@@ -294,6 +294,22 @@ when you CAN'T use Bootstrap:
 + **polyfill** - library that adds to old browsers support of possibility, which in modern browsers is inline
 + how to check:
     \<input type="no-such-type"\>
-    alert( document.body.children[1].type ); // text, не поддерживается
+    alert( document.body.children[1].type ); // text, not supported
++ hidden
+    [hidden] { display: none }
+    \<div hidden\>С атрибутом hidden\</div\>
++ attributes - HTML: string, names aren't case sensitive, visivle in *innerHTML*
+    + setting of attribute automaticly puts a property
++ property - inside DOM-element: any value, names are case sensitive, not visible in *innerHTML*
++ better always use property, attributes only if it's really needs
+    + you need to cross-browser get non-standard HTML attribute
+    + you need to get the "original value" of the standard HTML attribute
+    + you need to receive the list of all attributes, including custom. To do this, use the *attributes* collection.
++ method *contains* to check for nesting
+    + var result = parent.contains(child);
+        return *true* if *parent* contains *child* or *parent == child*
++ method *compareDocumentPosition* for the order of nodes 
+    + var result = nodeA.compareDocumentPosition(nodeB);
+        return value - bit mask
 
 
